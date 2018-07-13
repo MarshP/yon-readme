@@ -1,5 +1,18 @@
-## About
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+	- [History](#history)
+	- [Etiquette](#etiquette)
+	- [Landmarks](#landmarks)
+		- [Villages (approximately oldest to newest)](#villages-approximately-oldest-to-newest)
+		- [People's Bases](#peoples-bases)
+		- [Other Notable Locations](#other-notable-locations)
+		- [Practically Useful Locations](#practically-useful-locations)
+			- [Farms](#farms)
+			- [Enchantments](#enchantments)
+			- [Maps](#maps)
+		- [Heraldry](#heraldry)
+
+<!-- /TOC -->
 Yon is a *Survival Mode* Minecraft Realm created and owned by Damian Cugley (of Oxford) and extensively built in by him and friends over several years. You can see the terrain and biomes, here:
 
 * http://mineatlas.com/?levelName=4966500929223253659&seed=4966500929223253659
