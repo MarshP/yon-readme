@@ -1,15 +1,20 @@
 <!-- Manual ToC -->
 ## Contents
 
-* [About Yon and This Readme](#About-Yon-and-This-Readme)
-* [Useful Locations](#Useful-Locations)
-  * [Player Bases](#Player-Bases)
-  * [Transport](#Transport)
-  * [Mob and Resource Farms](#Mob-and-Resource-Farms)
-  * [Enchantments and Other Villager Trades](#Enchantments-and-Other-Villager-Trades)
+* [About Yon and This Readme](#about-yon-and-this-readme)
+* [Useful Locations](#useful-locations)
+  * [Player Bases](#player-bases)
+  * [Mob and Resource Farms](#mob-and-resource-farms)
+    * [Mob farms](#mob-farms)
+    * [Other resource farms](other-resource-farms)
+  * [Enchantments and Other Villager Trades](#enchantments-and-other-villager-trades)
   * [Communal and Borrowable Items](#communal-and-borrowable-items)
-  * [Maps](#Maps)
-  * [Landmarks](#Landmarks)
+  * [Maps](#maps)
+* [Transport](#transport)
+  * [Overworld Transport](#overworld-transport)
+  * [Nether Transport](#nether-transport)
+  * [End Transport](#end-transport)
+* [Landmarks](#landmarks)
 <!-- End ToC -->
 
 <span style="color:yellow;">FIRST DRAFT IN PROGRESS - will remove this span when done. PLEASE FORK AND EDIT THEN PULL REQ.<br /> --mamp</span>
@@ -30,23 +35,61 @@ Players can be found near their main bases a lot of the time, as this is also wh
 
 |Player|Approx. Coordinates|Description|Overworld Directions|Notes, Features|
 |:--:|:--:|:-------------|:----------|:---|
-|Cleanskies|235, 604|Cleanskies' first house; a ranch house with flowers on the roof.|Follow the [Gravel Path](#Transport) west out of Squaresville. The house is north of the path.|Beautiful glasshouses and a riot of flowers, set into ranch-like grounds with architectural sculptures.|
-|dp|250, 730<br>(underground)|dp's vaulted underground base. (Moria?)|Entrance under [Treehouse](#Landmarks) to SW of Squaresville|Amazing hand-dug vaults with pillars worth the visit, plus some quacking surprises.|
-|DgC|800, 510|The Rainbow Castle|Follow the [Gravel Path](#Transport) east from Squaresville, under the [SPPE](#Transport) and beyond.|Set up as a proper visitor attraction with amazing megabuilds, diving boards, canals and more... Spend the day.|
+|Cleanskies|235, 604|Cleanskies' first house; a ranch house with flowers on the roof.|Follow the [Gravel Path](#transport) west out of Squaresville. The house is north of the path.|Beautiful glasshouses and a riot of flowers, set into ranch-like grounds with architectural sculptures.|
+|dp|250, 730<br>(underground)|dp's vaulted underground base. (Moria?)|Entrance under [Treehouse](#landmarks) to SW of Squaresville|Amazing hand-dug vaults with pillars worth the visit, plus some quacking surprises.|
+|DgC|800, 510|The Rainbow Castle|Follow the [Gravel Path](#transport) east from Squaresville, under the [SPPE](#transport) and beyond.|Set up as a proper visitor attraction with amazing megabuilds, diving boards, canals and more... Spend the day.|
 |DnC|255, 300|The acacia and cobble octagon.|Take either cobbled path east from Spawntown, or noth from Yondinium. The house is at the northernmost tip of Yondinium, just south of the river, a stone's throw from the 0,0 desert.|An oddly convoluted build, typical of DnC. The updtairs is one of the realm's only attempts at realistic furnishings. This house is less of a main base than others listed here, as DnC builds all over the realm as fancy takes him.|
-|JK|380, 160|JK's cliffside house.|Take the [Savannah Plateau Pedestrian Expressway (SPPE) or River](#Transport) to Marsh's then follow the river NE, or take the SPPE to the end and descend from JK's tower above the house.|A large but organic build in harmony with its environment. Best viewed from the desert to the NNW to see how the house shapes to the drop from the Savannah Plateau.|
+|JK|380, 160|JK's cliffside house.|Take the [Savannah Plateau Pedestrian Expressway (SPPE) or River](#transport) to Marsh's then follow the river NE, or take the SPPE to the end and descend from JK's tower above the house.|A large but organic build in harmony with its environment. Best viewed from the desert to the NNW to see how the house shapes to the drop from the Savannah Plateau.|
 |JMcK|-200, 430|JMcK's waterfall house.| No clear overworld path. Best is to start at OG's house, then travel WNW through the birch forest. The tall red and white striped pylon will guide you to the mountain house, nearby. If you reach that, go back east a little.|The waterfall house is the most picturesque of several of JMcK's houses. There's shaped, routed waterfalls, a turf bridge between peaks, and several stairways into the mountains.|
-|Korvar|107, 247|Korvar's glass-toppped box.|The nearest house to spawn, in the middle of Spawntown.|Now somewhat overshadowed by Korvar's [monstrous pagoda](#Landmarks), this house has a cellar of surprises for smelting, brewing, a giant [slime farm](#Mob-and-Resource-Farms) and deep tunnels to MrTrousers' base.|
+|Korvar|107, 247|Korvar's glass-toppped box.|The nearest house to spawn, in the middle of Spawntown.|Now somewhat overshadowed by Korvar's [monstrous pagoda](#landmarks), this house has a cellar of surprises for smelting, brewing, a giant [slime farm](#mob-and-resource-farms) and deep tunnels to MrTrousers' base.|
 |LK|todo|todo|todo|todo|
-|MAMP|332, 189|Smiley Face|Take the offshoot near the N end of the SPPE, or follow paths and rivers E from Spawntown, NE from Yondinium|The themed roof is best seen from above on the [SPPE](#Transport) or Yondinium buildings. The house itself is sorta iron-age fort. In contrast to nearby JK's house, the grounds are an example of extensive terraforming/bulldozing. The sword used to kill the first Ender Dragon is framed here.|
-|MrTrousers|50, 370<br>(built into the cliff)|Lair de Trousers|Hop off the [Overland Railway](#Transport) at the huge wheat farm, or follow deep tunnels from Korvar's Spawntown house. Follow directions on the sign to use the entrance elevator. Above ground, there is a hole for entry by elytra.|It's a palace of wonders, with some of Yon's most advanced RS contraptions and farms. Explore, trying to work out how various thing work: Why do the pumpkins float past? Where are the mobs rising from? _How much sugar cane?_ How are the villagers bred? There is also a [secret villager trading area](#Mob-and-Resource-Farms) and a [spider spawner](#Mob-and-Resource-Farms).|
-|OG|109,606|OG's swamp-edge house.|Follow the [Gravel Path](#Transport) to its western end.|The house is within easy step of the nearby swamp. OG keeps a set of animals - cows and colourful sheep - in water rather than fenes, for reasons unknown. The house straddles a large lava pond with a glass floor - beware gaps! An attractive bridge links OG's mountain house. To the south is a chain of hotels that can be used when travelling in that direction in the overworld.|
+|MAMP|332, 189|Smiley Face|Take the offshoot near the N end of the SPPE, or follow paths and rivers E from Spawntown, NE from Yondinium|The themed roof is best seen from above on the [SPPE](#transport) or Yondinium buildings. The house itself is sorta iron-age fort. In contrast to nearby JK's house, the grounds are an example of extensive terraforming/bulldozing. The sword used to kill the first Ender Dragon is framed here.|
+|MrTrousers|50, 370<br>(built into the cliff)|Lair de Trousers|Hop off the [Overland Railway](#transport) at the huge wheat farm, or follow deep tunnels from Korvar's Spawntown house. Follow directions on the sign to use the entrance elevator. Above ground, there is a hole for entry by elytra.|It's a palace of wonders, with some of Yon's most advanced RS contraptions and farms. Explore, trying to work out how various thing work: Why do the pumpkins float past? Where are the mobs rising from? _How much sugar cane?_ How are the villagers bred? There is also a [secret villager trading area](#mob-and-resource-farms) and a [spider spawner](#mob-and-resource-farms).|
+|OG|109,606|OG's swamp-edge house.|Follow the [Gravel Path](#transport) to its western end.|The house is within easy step of the nearby swamp. OG keeps a set of animals - cows and colourful sheep - in water rather than fenes, for reasons unknown. The house straddles a large lava pond with a glass floor - beware gaps! An attractive bridge links OG's mountain house. To the south is a chain of hotels that can be used when travelling in that direction in the overworld.|
 
-### Transport
 
-#### Overworld transport
+### Mob and Resource Farms
 
-The **Overworld Railway** built by MrTrousers runs from the western edge of Spawntown to the heart of Squaresville, right by the [bookshop](#Landmarks). It's a fun ride with automated cart service and collection. Though largely safe, sections are unlit and unglassed, so use the train at night only if properly equipped. If you set off a creeper, remember to effect repairs!
+Mob and resource farms are built mainly for general use. If guests are ***not*** welcome to take resources that will be noted below. Just try to leave something for the next guest.
+
+There are many farms - you may want to ctrl-F for what you need.
+
+#### Mob farms
+|Mob/Resources|Farms|Location and Travel|Notes|
+|----|----|----|----|
+|Guardian<br>- prismarine shards, crystals<br>- therefore sea lanterns<br>- fish (cod)|Guardian farm and ocean monument|
+|Iron golem<br>- iron<br>- poppies|Korvar's iron farm|
+|Multi-mob farm<br>- bones<br>- arrows<br>- rotten flesh<br>- string<br>- gunpowder<br>- etc.|src gunpowder/creeper
+|Skeleton<br>- bones<br>- arrows
+|Slime<br>- slimeballs|Korvar's slime farm<br>------<br>Marsh's slime farm|Go down under Korvar's Spawntown house.<br>------<br>Follow the path out of the SW of nether hub, then a short rail ride. Go past the portal at the end of the rail ride and down some steps. The portal there comes out at -621, 5, 2306.|Built before slime chunks were confirmed - less productive<br>------<br>Huge meeting of 5 slime chunks and multi-floored, but not all dug out. Already productive but likely even more so in future.|
+|Spider<br>- string<br>- spider eyes|see also multi
+|Squid<br>- ink|Korvar's squid farm|In the desert close to 0,0. A portal from the nether hub exits nearby, then follow the tunnel immediately east of the portal and down a shaft.|--|
+|Wither skeleton
+|Zombie|see also multi
+|Zombie pigman<br>- XP<br>- gold|swds emds
+
+
+
+
+
+
+
+#### Resource farms
+squid slime villagermrt central-general zpm Guardian spider-trou mob-base-mamp obsid
+|Obsidian
+|Wood
+crops usually no
+
+### Enchantments and Other Villager Trades
+### Communal and Borrowable Items
+mamp mamp-chest mamp-wood pearls fishing stations
+### Maps
+
+## Transport
+
+### Overworld Transport
+
+The **Overworld Railway** built by MrTrousers runs from the western edge of Spawntown to the heart of Squaresville, right by the [bookshop](#landmarks). It's a fun ride with automated cart service and collection. Though largely safe, sections are unlit and unglassed, so use the train at night only if properly equipped. If you set off a creeper, remember to effect repairs!
 
 The **Savannah Plateau Pedestrian Expressway (SPPE)** built by MAMP is useful if you want to travel north-south, but are east of the Yondinium-Squaresville line, making it irksome to get to the railway which is far to the west. The SPPE has a (colour-shifting) beacon to speed foot passage, and literal jumping-off points to get to Yondinium and the Gravel Path, by falling into water or elytra flight.
 
@@ -56,34 +99,37 @@ The **Savannah Plateau Pedestrian Expressway (SPPE)** built by MAMP is useful if
 
 The **Gravel Path** is _mainly_ made of gravel and runs east-west all the way from the Rainbow Castle, under the SPPE, through Squaresville near the bookshop, to the swamp near OG's house. This is an underrated method of transport right through our central realm, ripe for improvement and protection.
 
-[**Ender pearls**](#communal-and-borrowable-items) speed up overworld travel considerably. 
+[**Ender pearls**](#communal-and-borrowable-items) speed up overworld travel considerably.
 
-#### Nether transport
+### Nether Transport
 
 The nether hub is a large area carpeted with a map of the overworld. Portals are mainly within sight of each other and well signed.
 
 An **automated railway station** is under construction by MrTrousers; signs indicate which lines are functioning so far.
 
 **Paths out of the nether hub** at the NW and SW, SE corners lead to:
-* NW path to nether fortress with [blaze spawner](#Mob-and-Resource-Farms) and [wither skeleton farm](#Mob-and-Resource-Farms), also to the [iron farm](#Mob-and-Resource-Farms) built by Korvar, and the [guardian farm](#Mob-and-Resource-Farms) for sea lanterns and prismarine.
-* SW path to various out-of-the-way housing, and also the [BIG slime farm](#Mob-and-Resource-Farms) and [skeleton farm (B)](#Mob-and-Resource-Farms) built by MAMP (a train goes part way).
-* SE to the Rainbow Castle and the [End Portal Stronghold](#Landmarks)
-* North end of the hub is a portal leading into the 0,0 desert, where the [squid ink farm](#Mob-and-Resource-Farms) is located.
+* NW path to nether fortress with [blaze spawner](#mob-and-resource-farms) and [wither skeleton farm](#mob-and-resource-farms), also to the [iron farm](#mob-and-resource-farms) built by Korvar, and the [guardian farm](#mob-and-resource-farms) for sea lanterns and prismarine.
+* SW path to various out-of-the-way housing, and also the [BIG slime farm](#mob-and-resource-farms) and [skeleton farm (B)](#mob-and-resource-farms) built by MAMP (a train goes part way).
+* SE to the Rainbow Castle and the [End Portal Stronghold](#landmarks)
+* North end of the hub is a portal leading into the 0,0 desert, where the [squid ink farm](#mob-and-resource-farms) is located.
 **Railways out of the nether hub**, not counting little internal railways over walking distances:
 * NE corner - Railway to Mesa and Ice Biomes by JK. This way for coloured clay!
 * E edge GIANT railway to the [Woodland Mansion]. This is entirely glassed and paved, and is probably the realm's biggest single build, made by Korvar.
-* Straight up - through the nether roof to the [XP and gold farm](#Mob-and-Resource-Farms)
-  * A foot stairway ascend from the east of the hub to meet this train at the nether roof. This is also the route to the [Wither-killing space](#Mob-and-Resource-Farms)
-* North and down - to the jungle biomes and [skeleton farm (A)](#Mob-and-Resource-Farms)
+* Straight up - through the nether roof to the [XP and gold farm](#mob-and-resource-farms)
+  * A foot stairway ascend from the east of the hub to meet this train at the nether roof. This is also the route to the [Wither-killing space](#mob-and-resource-farms)
+* North and down - to the jungle biomes and [skeleton farm (A)](#mob-and-resource-farms)
 * South and down - to Nova Bioma, with jungle and taiga biomes.
 
-#### End transport
-### Mob and Resource Farms
-squid slime villagermrt central-general zpm Guardian spider-trou mob-base-mamp
-### Enchantments and Other Villager Trades
-### Communal and Borrowable Items
-mamp mamp-chest mamp-wood pearls
-### Maps
+### End Transport
+
+The End is a two way trip until we respawn an Ender Dragon. The end portal is in the Stronghold, best reached through the nether hub.
+
+* Consider putting a pumpkin on your head, to avoid angering the many, many Endermen by mistake.
+* The obsidian platform you land on when coming to the End renews whenever a player comes through - it's a good place to mine obsidian.
+* Transport around the end is going to be by elytra + fireworks or [ender pearl](#communal-and-borrowable-items), however an ice roadway with wooden boats has been built to speed part of the journey away from the first island in one direction - **remember to place no torches or lights here** please.
+
+
+
 ### Landmarks
 treehou pagodas dino spaceship nether hub carpets map
 dragon sword and head
