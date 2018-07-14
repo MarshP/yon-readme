@@ -1,54 +1,75 @@
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- Manual ToC -->
+## Contents
 
-	- [History](#history)
-	- [Etiquette](#etiquette)
-	- [Landmarks](#landmarks)
-		- [Villages (approximately oldest to newest)](#villages-approximately-oldest-to-newest)
-		- [People's Bases](#peoples-bases)
-		- [Other Notable Locations](#other-notable-locations)
-		- [Practically Useful Locations](#practically-useful-locations)
-			- [Farms](#farms)
-			- [Enchantments](#enchantments)
-			- [Maps](#maps)
-		- [Heraldry](#heraldry)
+* [About Yon and This Readme](#About-Yon-and-This-Readme)
+  * [More Information](#More-Information)
+* [Useful Locations](#Useful-Locations)
+  * [Player Bases](Player-Bases)
+  * [Transport](#Transport)
+  * [Mob Farms](#Mob-Farms)
+  * [Enchantments and Other Villager Trades](#Enchantments-and-Other-Villager-Trades)
+  * [Maps](#Maps)
+  * [Landmarks](#Landmarks)
+<!-- End ToC -->
 
-<!-- /TOC -->
-Yon is a *Survival Mode* Minecraft Realm created and owned by Damian Cugley (of Oxford) and extensively built in by him and friends over several years. You can see the terrain and biomes, here:
+<span style="color:yellow;">FIRST DRAFT IN PROGRESS - will remove this span when done.<br /> --mamp</span>
 
-* http://mineatlas.com/?levelName=4966500929223253659&seed=4966500929223253659
+## About Yon and This Readme
 
-## History
+Yon is a *Survival Mode* Minecraft Realm created and owned by D-Cug (of Oxford) and extensively built by him and friends over several years. You can see the terrain and biomes [on MineAtlas](http://mineatlas.com/?levelName=4966500929223253659&seed=4966500929223253659).
 
-Damian and Ben built most of the original world and named some of the villages.
+The more thorough Yon Gist is [maintained by OG](https://gist.github.com/ollyg/78e7bf8d3df70f7bb0727493dcb9ceaf#file-yon-realm-asciidoc).  This readme is a reference of practically useful stuff for new or returning players.
 
-Various other players are involved:
+**Note:** This readme is public and names are obfuscated - see the gist.
 
-* `j4` (Janet)
-* `jeremy` (Jeremy)
-* `olwy` (Oliver)
-* `korvathefox` (Damian's brother)
-* `MrTrousers` (Ben, a friend of Damian's and creator of mineatlas.com)
+## Useful-Locations
 
-For a period of about a year Damian, Oliver, Janet, and Jeremy used to meet to build, for one Minecrafternoon a month.
+### Player Bases
 
-Recently some more lovely people have joined:
+Most players can be found near their main base a lot of the time, as this is also where their trades and food farms are likely to be. This is also a good place to leave trade goods, notes (as signs or written books), borrow items, etc.
 
-* `louis_mallow` (Marsh)
-* `doooooooop` (Jon aka doop)
-* `dougclow` (Doug)
-* `julietk15` (Juliet)
-* `lucyclare` (Lucy)
+|Player|Approx. Coordinates|Description|Overworld Directions|Notes, Features|
+|---------------|--------------------|-----------------------|----------|
+|Cleanskies|
+|dp|250, 730 (underground)|dp's vaulted underground base|Entrance under [Treehouse](#Landmarks) to SW of Squaresville|Amazing hand-dug vaults with pillars worth the visit, plus some quacking surprises|
+|DgCl|TODO|Rainbow Castle|Follow the gravel path East from Yondinium, under the SPPE|Set up as a proper visitor attraction with amazing megabuilds, diving boards, canals... Spend the day.|
+|DnCu|
+|JK|380, 160|JK's cliffside house|Take the [Savannah Plateau Pedestrian Expressway (SPPE) or River](#Transport) to Marsh's then follow the river NE, or take the SPPE to the end and descend from JK's tower|Example of a large but organic build in harmony with its environment.|
+|JMcK|
+|Korvar|
+|LK|
+|MAMP|TODO|Smiley Face|Take the offshoot near the N end of the SPPE, or follow paths and rivers E from Spawntown, NE from Yondinium|The themed roof is best seen from above on the SPPE or Yondinium buildings. The house itself is sorta iron-age fort. The grounds are an example of extensive terraforming.|
+|MrTrousers|
+|OG|
 
-## Etiquette
 
-* Keep it PG. There are occasional teen visitors.
-* No griefing (hassling other players or destroying their stuff)
-* Buildings are not closed off, so if you need a bed just find one and use it
-* Stuff in chests should be assumed owned and untouchable, unless marked otherwise
-** An exception is if you borrow something and return it _very soon_ in the _same condition_
-* Leave all doors/gates as you find them (close them behind you)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Landmarks
+treehou pagodas dino spaceship
 
 There are several villages of different styles or themes. Feel free to help expand them, in keeping with taste and maintaining perimiter security. Most players have also built a house somewhere in the world, for fun and to keep their stuff. Feel free to do the same.
 
