@@ -39,7 +39,7 @@ Players can be found near their main bases a lot of the time, as this is also wh
 |dp|250, 730<br>(underground)|dp's vaulted underground base. (Moria?)|Entrance under [Treehouse](#landmarks) to SW of Squaresville|Amazing hand-dug vaults with pillars worth the visit, plus some quacking surprises.|
 |DgC|800, 510|The Rainbow Castle|Follow the [Gravel Path](#transport) east from Squaresville, under the [SPPE](#transport) and beyond.|Set up as a proper visitor attraction with amazing megabuilds, diving boards, canals and more... Spend the day.|
 |DnC|255, 300|The acacia and cobble octagon.|Take either cobbled path east from Spawntown, or noth from Yondinium. The house is at the northernmost tip of Yondinium, just south of the river, a stone's throw from the 0,0 desert.|An oddly convoluted build, typical of DnC. The updtairs is one of the realm's only attempts at realistic furnishings. This house is less of a main base than others listed here, as DnC builds all over the realm as fancy takes him.|
-|JK|380, 160|JK's cliffside house.|Take the [Savannah Plateau Pedestrian Expressway (SPPE) or River](#transport) to Marsh's then follow the river NE, or take the SPPE to the end and descend from JK's tower above the house.|A large but organic build in harmony with its environment. Best viewed from the desert to the NNW to see how the house shapes to the drop from the Savannah Plateau.|
+|JK|380, 160|JK's cliffside house.|Take the [Savannah Plateau Pedestrian Expressway (SPPE) or River](#transport) to MAMP's then follow the river NE, or take the SPPE to the end and descend from JK's tower above the house.|A large but organic build in harmony with its environment. Best viewed from the desert to the NNW to see how the house shapes to the drop from the Savannah Plateau.|
 |JMcK|-200, 430|JMcK's waterfall house.| No clear overworld path. Best is to start at OG's house, then travel WNW through the birch forest. The tall red and white striped pylon will guide you to the mountain house, nearby. If you reach that, go back east a little.|The waterfall house is the most picturesque of several of JMcK's houses. There's shaped, routed waterfalls, a turf bridge between peaks, and several stairways into the mountains.|
 |Korvar|107, 247|Korvar's glass-toppped box.|The nearest house to spawn, in the middle of Spawntown.|Now somewhat overshadowed by Korvar's [monstrous pagoda](#landmarks), this house has a cellar of surprises for smelting, brewing, a giant [slime farm](#mob-and-resource-farms) and deep tunnels to MrTrousers' base.|
 |LK|todo|todo|todo|todo|
@@ -57,13 +57,17 @@ There are many farms - you may want to ctrl-F for what you need.
 #### Mob farms
 |Mob/Resources|Farms|Location and Travel|Notes|
 |----|----|----|----|
-|Guardian<br>- prismarine shards, crystals<br>- therefore sea lanterns<br>- fish (cod)|Guardian farm and ocean monument|
-|Iron golem<br>- iron<br>- poppies|Korvar's iron farm|
-|Multi-mob farm<br>- bones<br>- arrows<br>- rotten flesh<br>- string<br>- gunpowder<br>- etc.|src gunpowder/creeper
-|Skeleton<br>- bones<br>- arrows
-|Slime<br>- slimeballs|Korvar's slime farm<br>------<br>Marsh's slime farm|Go down under Korvar's Spawntown house.<br>------<br>Follow the path out of the SW of nether hub, then a short rail ride. Go past the portal at the end of the rail ride and down some steps. The portal there comes out at -621, 5, 2306.|Built before slime chunks were confirmed - less productive<br>------<br>Huge meeting of 5 slime chunks and multi-floored, but not all dug out. Already productive but likely even more so in future.|
-|Spider<br>- string<br>- spider eyes|see also multi
-|Squid<br>- ink|Korvar's squid farm|In the desert close to 0,0. A portal from the nether hub exits nearby, then follow the tunnel immediately east of the portal and down a shaft.|--|
+|Guardian<br>- prismarine shards, crystals<br>- (sea lanterns)<br>- fish (cod)<br>- ink|Guardian farm and ocean monument|Take NW path out of nether hub. Follow the path west past nether fort. **Beware ghasts here**, which can also hit and anger ZPMs. The signed and prismarine shrouded portal exits at -815, 40, -280 in the empty [ocean monument](#landmarks).|Ink is a side-effect, see squid farms below.
+|Iron golem<br>- iron<br>- poppies|Korvar's iron farm|Take NW path out of nether hub. The portal is near the hub, before you reach the nether fortress, and signed. It exits near the farm which is at -264, 70, -234|--|
+|Multi-mob farm<br>- bones<br>- arrows<br>- rotten flesh<br>- string<br>- gunpowder<br>- etc.|Korvar's Spawntown tower mob farm|From Spawntown, just climb the nearby giant tower.|This is the most productive multi-mob farm. Also, you can jump off the top onto the slime block below. Top fun.<br><br>Note these farms are the only type to produce creepers and gunpowder.|
+|Multi-mob farm|MAMP's under-base mob farm|The farm is under [MAMP's base](#player-bases) and will start working after the player has been in the base a short time.|This mob farm produces no spider drops.<br><br>Note these farms are the only type to produce creepers and gunpowder.
+|Skeleton<br>- bones<br>- arrows|Skeleton farm (A)|Take the nether railway to JK's jungle station. On exit do not take the nearby portal - go through the oak door and follow a short twisting corridor. The portal at the end exits to the farm at 472, 63, -2473|The farm is an attractive build from outside, looking south at it with jungle behind.
+|Skeleton|Skeleton farm (B)|Follow the path out of the SW of nether hub, then a short rail ride. Go past the portal at the end of the rail ride and down some steps. The portal there comes out at -621, 5, 2306 by the slime farm. A signed corridor next to the portal leads to the skeleton farm.|Drops are downstairs below the spawner.|
+|Slime<br>- slimeballs|Korvar's slime farm|Go down under Korvar's Spawntown house.|Built before slime chunks were confirmed - less productive|
+|Slime<br>- slimeballs|MAMP's slime farm|See skeleton farm (B), above|Huge meeting of 5 slime chunks and multi-floored, but not all dug out. Already productive but likely even more so in future.|
+|Spider<br>- string<br>- spider eyes|MrTrousers' WIP|Take the lift down to MrTrousers' mines under [his base](#player-bases). Next to the lift is a signed corridor to the spawner.|Also see multi-mob spawners for spiders.|
+|Squid<br>- ink|Korvar's squid farm<br>------<br>Guardian farm|In the desert close to 0,0. A portal from the nether hub exits nearby, then follow the tunnel immediately east of the portal and down a shaft.<br>------<br>See above for guardian farm directions.|None<br>------<br>Squid spawning and being killed by guardians is a useful side effect, but productive for ink.|
+|Squid<br>- ink|Korvar's squid farm<br>------<br>Guardian farm|In the desert close to 0,0. A portal from the nether hub exits nearby, then follow the tunnel immediately east of the portal and down a shaft.<br>------<br>See above for guardian farm directions.|None<br>------<br>Squid spawning and being killed by guardians is a useful side effect, but productive for ink.|
 |Wither skeleton
 |Zombie|see also multi
 |Zombie pigman<br>- XP<br>- gold|swds emds
@@ -112,9 +116,10 @@ An **automated railway station** is under construction by MrTrousers; signs indi
 * SW path to various out-of-the-way housing, and also the [BIG slime farm](#mob-and-resource-farms) and [skeleton farm (B)](#mob-and-resource-farms) built by MAMP (a train goes part way).
 * SE to the Rainbow Castle and the [End Portal Stronghold](#landmarks)
 * North end of the hub is a portal leading into the 0,0 desert, where the [squid ink farm](#mob-and-resource-farms) is located.
+
 **Railways out of the nether hub**, not counting little internal railways over walking distances:
 * NE corner - Railway to Mesa and Ice Biomes by JK. This way for coloured clay!
-* E edge GIANT railway to the [Woodland Mansion]. This is entirely glassed and paved, and is probably the realm's biggest single build, made by Korvar.
+* E edge - [Great Nether Railway](#landmarks) to the [Woodland Mansion](#landmarks). This is entirely glassed and paved, and is probably the realm's biggest single build, made by Korvar.
 * Straight up - through the nether roof to the [XP and gold farm](#mob-and-resource-farms)
   * A foot stairway ascend from the east of the hub to meet this train at the nether roof. This is also the route to the [Wither-killing space](#mob-and-resource-farms)
 * North and down - to the jungle biomes and [skeleton farm (A)](#mob-and-resource-farms)
@@ -133,8 +138,8 @@ The End is a two way trip until we respawn an Ender Dragon. The end portal is in
 ### Landmarks
 treehou pagodas dino spaceship nether hub carpets map
 dragon sword and head
-
-
+ocean mnmt
+red wht pylon
 
 
 
@@ -164,7 +169,7 @@ There are several villages of different styles or themes. Feel free to help expa
 
 The above ground railway was built by `MrTrousers`. Although the original villages were close together, Oliver later built a network of https://minecraft.gamepedia.com/Nether_portal[Nether Portal]s and railways to make it easier to get around. Go into a Nether Gate and you will find signs and Gates to jump to other locations. The central nether nexus area is mostly glassed-in and covered with carpet to prevent mobs spawning, so is relatively safe. An automated switching minecart system, by MrTrousers, is partially complete. There is a Public Smeltery, built by MrTrousers, and next to that a set of chests which includes one with communal items (currently sponge and a beacon)- feel free to use these, but return them after you're done.
 
-There's also an elevated Savannah Plateau Pedestrian Expressway in the overworld, built by Marsh, which goes all the way from JK's Cliffside House, past Marsh's smiley base and Yondinium, to Squaresville. It is illuminated and has a colour-changing beacon roughly half-way along.
+There's also an elevated Savannah Plateau Pedestrian Expressway in the overworld, built by MAMP, which goes all the way from JK's Cliffside House, past MAMP's smiley base and Yondinium, to Squaresville. It is illuminated and has a colour-changing beacon roughly half-way along.
 
 **Villages (approximately oldest to newest)**
 
@@ -178,7 +183,7 @@ There's also an elevated Savannah Plateau Pedestrian Expressway in the overworld
 
 Most people's bases are most easily located via the Nether Portal network. (DgC's are labelled 'Rainbow Castle' and are not hard to miss from the carpet.) At the moment, the exceptions are:
 
-* JK: Cliffside House, about 380 ~ 160, nearest stop Marsh P's then follow cobble path or the river to the NE
+* JK: Cliffside House, about 380 ~ 160, nearest stop MAMP P's then follow cobble path or the river to the NE
 * dp: about 250 ~ 730, nearest stop Squaresville, entrance under treehouse to SW of Squaresville
 
 **### Other Notable Locations**
@@ -201,14 +206,14 @@ These are accessible via a portal in the Nether nexus, many via minecart tracks:
 * Wither Skeleton Farm (keep going in to fortress after Blaze Farm)
 * Guardian Farm (keep going on path past the Blaze Farm fortress to the far portal)
 * Slime and Bone Farm (SW corner of nether nexus, go through tunnel next to JMcK's Not-mushroom House, take the minecart railway, go round the Frozen Wastes/Ice Plains portal and down the twisty passageway)
-* Skeleton Farm (made by Marsh, forgotten where it is other than jungle)
+* Skeleton Farm (made by MAMP, forgotten where it is other than jungle)
 * Overworld mob farm (in Spawntown, go up ladder surrounded by slime blocks)
 
 There is also an easy Wither-killing station in the nether. Take the netherbrick staircase in the east wall of the nexus and go straight on at the top, through the torchlit passage.
 
 **#### Enchantments**
 * 'Bookshop', sells enchantments, only open during daytime. In Squaresville at end of overworld railway.
-* Marsh's Undercroft of The Secret Smiley (downstairs from his base): many Villager trades, including Mending (!!), Fortune II, Looting II, Frostwalker I, Infinity, Unbreaking II, Respiration II, Aqua Affinity
+* MAMP's Undercroft of The Secret Smiley (downstairs from his base): many Villager trades, including Mending (!!), Fortune II, Looting II, Frostwalker I, Infinity, Unbreaking II, Respiration II, Aqua Affinity
 * Villager: Silk Touch - 13 emeralds, in main level 0 corridor of Rainbow Castle between North West Tower and Central Tower
 * Villager: Looting III - 43 emeralds + book, on roof above the nether (jump of XP Farm cart just after going through nether roof)
 
@@ -219,7 +224,7 @@ When trading with villagers for enchantments, if you take the last one and the t
 There are display maps in various places:
 
 * Above the Public Smeltery in the nether
-* Marsh's Smiley base, on wall outside south door
+* MAMP's Smiley base, on wall outside south door
 * DgC's Rainbow Castle, North West Tower level 1 (nearest main entrance)
 * Somewhere Korvar made a massive overworld map of his epic railway
 * The End, in middle of central island, near exit portal and ladder to ice boat railway
@@ -229,7 +234,7 @@ There are display maps in various places:
 Several players have adopted a banner (or two) to signify their constructions, portals, and so on. There is a display of all of them to the left of the Public Smeltery.
 
 * Brown with white central strip and black chief indented - MrTrousers
-* Black with red fess, black with purple fess - Marsh
+* Black with red fess, black with purple fess - MAMP
 * Rainbow - DgC
 * Blue with yellow flower charge
 * Blue with white diagonal cross (Scottish saltire)
