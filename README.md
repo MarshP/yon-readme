@@ -7,7 +7,7 @@
   * [Transport](#Transport)
   * [Mob and Resource Farms](#Mob-and-Resource-Farms)
   * [Enchantments and Other Villager Trades](#Enchantments-and-Other-Villager-Trades)
-  * [Communal and Borrowable Items](#Communal-and-Borrowable-Items)
+  * [Communal and Borrowable Items](#communal-and-borrowable-items)
   * [Maps](#Maps)
   * [Landmarks](#Landmarks)
 <!-- End ToC -->
@@ -56,7 +56,7 @@ The **Savannah Plateau Pedestrian Expressway (SPPE)** built by MAMP is useful if
 
 The **Gravel Path** is _mainly_ made of gravel and runs east-west all the way from the Rainbow Castle, under the SPPE, through Squaresville near the bookshop, to the swamp near OG's house. This is an underrated method of transport right through our central realm, ripe for improvement and protection.
 
-[**Ender pearls**](#Communal-and-Borrowable-Items) speed up overworld travel considerably. 
+[**Ender pearls**](#communal-and-borrowable-items) speed up overworld travel considerably. 
 
 #### Nether transport
 
@@ -78,8 +78,6 @@ An **automated railway station** is under construction by MrTrousers; signs indi
 * South and down - to Nova Bioma, with jungle and taiga biomes.
 
 #### End transport
-
-<span id="Mob-and-Resource-Farms"></span>
 ### Mob and Resource Farms
 squid slime villagermrt central-general zpm Guardian spider-trou mob-base-mamp
 ### Enchantments and Other Villager Trades
