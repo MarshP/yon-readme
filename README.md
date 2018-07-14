@@ -29,18 +29,19 @@ The more thorough Yon Gist is [maintained by OG](https://gist.github.com/ollyg/7
 Most players can be found near their main base a lot of the time, as this is also where their trades and food farms are likely to be. This is also a good place to leave trade goods, notes (as signs or written books), borrow items, etc.
 
 |Player|Approx. Coordinates|Description|Overworld Directions|Notes, Features|
-|---------------|--------------------|-----------------------|----------|
-|Cleanskies|
+|:--:|:--:|:-------------|:----------|:---|
+|Cleanskies| | | | |
 |dp|250, 730 (underground)|dp's vaulted underground base|Entrance under [Treehouse](#Landmarks) to SW of Squaresville|Amazing hand-dug vaults with pillars worth the visit, plus some quacking surprises|
 |DgCl|TODO|Rainbow Castle|Follow the gravel path East from Yondinium, under the SPPE|Set up as a proper visitor attraction with amazing megabuilds, diving boards, canals... Spend the day.|
-|DnCu|
+|DnCu| | | | |
 |JK|380, 160|JK's cliffside house|Take the [Savannah Plateau Pedestrian Expressway (SPPE) or River](#Transport) to Marsh's then follow the river NE, or take the SPPE to the end and descend from JK's tower|Example of a large but organic build in harmony with its environment.|
-|JMcK|
-|Korvar|
-|LK|
+|JMcK| | | | |
+|Korvar| | | | |
+|LK| | | | |
 |MAMP|TODO|Smiley Face|Take the offshoot near the N end of the SPPE, or follow paths and rivers E from Spawntown, NE from Yondinium|The themed roof is best seen from above on the SPPE or Yondinium buildings. The house itself is sorta iron-age fort. The grounds are an example of extensive terraforming.|
-|MrTrousers|
-|OG|
+|MrTrousers| | | | |
+|OG| | | | | |
+
 
 
 
