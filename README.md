@@ -26,7 +26,7 @@ The more thorough Yon Gist is [maintained by OG](https://gist.github.com/ollyg/7
 
 ### Player Bases
 
-Most players can be found near their main base a lot of the time, as this is also where their trades and food farms are likely to be. This is also a good place to leave trade goods, notes (as signs or written books), borrow items, etc.
+Players can be found near their main bases a lot of the time, as this is also where their trades and food farms are likely to be. These are also good places to leave trade goods, notes (as signs or written books), borrow items, etc.
 
 |Player|Approx. Coordinates|Description|Overworld Directions|Notes, Features|
 |:--:|:--:|:-------------|:----------|:---|
@@ -43,13 +43,34 @@ Most players can be found near their main base a lot of the time, as this is als
 |OG|109,606|OG's swamp-edge house.|Follow the [Gravel Path](#Transport) to its western end.|The house is within easy step of the nearby swamp. OG keeps a set of animals - cows and colourful sheep - in water rather than fenes, for reasons unknown. The house straddles a large lava pond with a glass floor - beware gaps! An attractive bridge links OG's mountain house. To the south is a chain of hotels that can be used when travelling in that direction in the overworld.|
 
 ### Transport
-path behind SSPE
-grave path ollie 0> bookshop -> exressway (make a lift) -> rainbow
+
+#### Overworld transport
+
+* The **Overworld Railway** built by MrTrousers runs from the western edge of Spawntown to the heart of Squaresville, right by the [bookshop](#Landmarks). It's a fun ride with automated cart service and collection. Though largely safe, sections are unlit and unglassed, so use the train at night only if properly equipped. If you set off a creeper, remember to effect repairs!
+* The **Savannah Plateau Pedestrian Expressway (SPPE)** built by MAMP is useful if you want to travel north-south, but are east of the Yondinium-Squaresville line, making it irksome to get to the railway which is far to the west. The SPPE has a (colour-shifting) beacon to speed foot passage, and literal jumping-off points to get to Yondinium and the Gravel Path, by falling into water or elytra flight.<br><br>There is a concealed path just east of the SPPE, running parallel to it. This is useful to join the SPPE from ground level without travelllng to either end first.<br><br>Half way along the SPPE, next to the beacon, there is a nether portal.
+* The **Gravel Path** is _mainly_ made of gravel and runs east-west all the way from the Rainbow Castle, under the SPPE, through Squaresville near the bookshop, to the swamp near OG's house. This is an underrated method of transport right through our central realm, ripe for improvement and protection.
+
+#### Nether transport
+
+The nether hub is a large area carpeted with a map of the overworld. Portals are mainly within sight of each other and well signed.
+
+* An **automated railway station** is under construction by MrTrousers; signs indicate which lines are functioning so far.
+* **Paths out of the nether hub** at the NW and SW corners lead to:
+  * NW path to nether fortress with [blaze spawner](#Mob-and-Resource-Farms) and [wither skeleton farm](#Mob-and-Resource-Farms), also to the [iron farm](#Mob-and-Resource-Farms) built by Korvar.
+  * SW path to various out-of-the-way housing, and also the [BIG slime farm](#Mob-and-Resource-Farms) and [skeleton farm (B)](#Mob-and-Resource-Farms) built by MAMP (a train goes part way).
+* **Railways out of the nether hub:**
+  * NE corner - Railway to Mesa and Ice Biomes by JK. This way for coloured clay!
+  *
+
+
+
+#### End transport
+
 ### Mob and Resource Farms
 squid slime villagermrt central-general zpm Guardian spider-trou mob-base-mamp
 ### Enchantments and Other Villager Trades
 ### Communal and Borrowable Items
-mamp mamp-chest mamp-wood
+mamp mamp-chest mamp-wood pearls
 ### Maps
 ### Landmarks
 treehou pagodas dino spaceship nether hub carpets map
