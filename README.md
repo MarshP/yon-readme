@@ -12,7 +12,7 @@
   * [Landmarks](#Landmarks)
 <!-- End ToC -->
 
-<span style="color:yellow;">FIRST DRAFT IN PROGRESS - will remove this span when done.<br /> --mamp</span>
+<span style="color:yellow;">FIRST DRAFT IN PROGRESS - will remove this span when done. PLEASE FORK AND EDIT THEN PULL REQ.<br /> --mamp</span>
 
 ## About Yon and This Readme
 
