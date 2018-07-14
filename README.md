@@ -2,12 +2,12 @@
 ## Contents
 
 * [About Yon and This Readme](#About-Yon-and-This-Readme)
-  * [More Information](#More-Information)
 * [Useful Locations](#Useful-Locations)
-  * [Player Bases](Player-Bases)
+  * [Player Bases](#Player-Bases)
   * [Transport](#Transport)
   * [Mob Farms](#Mob-Farms)
   * [Enchantments and Other Villager Trades](#Enchantments-and-Other-Villager-Trades)
+  * [Communal and Borrowable Items](#Communal-and-Borrowable-Items)
   * [Maps](#Maps)
   * [Landmarks](#Landmarks)
 <!-- End ToC -->
@@ -22,7 +22,7 @@ The more thorough Yon Gist is [maintained by OG](https://gist.github.com/ollyg/7
 
 **Note:** This readme is public and names are obfuscated - see the gist.
 
-## Useful-Locations
+## Useful Locations
 
 ### Player Bases
 
@@ -33,44 +33,50 @@ Most players can be found near their main base a lot of the time, as this is als
 |Cleanskies| | | | |
 |dp|250, 730 (underground)|dp's vaulted underground base|Entrance under [Treehouse](#Landmarks) to SW of Squaresville|Amazing hand-dug vaults with pillars worth the visit, plus some quacking surprises|
 |DgCl|TODO|Rainbow Castle|Follow the gravel path East from Yondinium, under the SPPE|Set up as a proper visitor attraction with amazing megabuilds, diving boards, canals... Spend the day.|
-|DnCu| | | | |
+|DnC| | | | |
 |JK|380, 160|JK's cliffside house|Take the [Savannah Plateau Pedestrian Expressway (SPPE) or River](#Transport) to Marsh's then follow the river NE, or take the SPPE to the end and descend from JK's tower|Example of a large but organic build in harmony with its environment.|
 |JMcK| | | | |
 |Korvar| | | | |
 |LK| | | | |
-|MAMP|TODO|Smiley Face|Take the offshoot near the N end of the SPPE, or follow paths and rivers E from Spawntown, NE from Yondinium|The themed roof is best seen from above on the SPPE or Yondinium buildings. The house itself is sorta iron-age fort. The grounds are an example of extensive terraforming.|
+|MAMP|TODO|Smiley Face|Take the offshoot near the N end of the SPPE, or follow paths and rivers E from Spawntown, NE from Yondinium|The themed roof is best seen from above on the SPPE or Yondinium buildings. The house itself is sorta iron-age fort. In contrast to nearby JK's house, the grounds are an example of extensive terraforming/bulldozing.|
 |MrTrousers| | | | |
 |OG| | | | | |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Landmarks
+### Transport
+### Mob Farms
+### Enchantments and Other Villager Trades
+### Communal and Borrowable Items
+mamp chest
+### Maps
+### Landmarks
 treehou pagodas dino spaceship
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----
+
+
+## Old Material being reworked ##
+
+**Landmarks**
+
 
 There are several villages of different styles or themes. Feel free to help expand them, in keeping with taste and maintaining perimiter security. Most players have also built a house somewhere in the world, for fun and to keep their stuff. Feel free to do the same.
 
@@ -78,7 +84,7 @@ The above ground railway was built by `MrTrousers`. Although the original villag
 
 There's also an elevated Savannah Plateau Pedestrian Expressway in the overworld, built by Marsh, which goes all the way from JK's Cliffside House, past Marsh's smiley base and Yondinium, to Squaresville. It is illuminated and has a colour-changing beacon roughly half-way along.
 
-### Villages (approximately oldest to newest)
+**Villages (approximately oldest to newest)**
 
 * Squaresville
 * Yondinium
@@ -86,14 +92,14 @@ There's also an elevated Savannah Plateau Pedestrian Expressway in the overworld
 * Deadsville (near Rainbow Castle portals)
 * Roundwell (built by DnC, go round the back of the Deadsville portal)
 
-### People's Bases
+**People's Bases**
 
 Most people's bases are most easily located via the Nether Portal network. (DgC's are labelled 'Rainbow Castle' and are not hard to miss from the carpet.) At the moment, the exceptions are:
 
 * JK: Cliffside House, about 380 ~ 160, nearest stop Marsh P's then follow cobble path or the river to the NE
 * dp: about 250 ~ 730, nearest stop Squaresville, entrance under treehouse to SW of Squaresville
 
-### Other Notable Locations
+**### Other Notable Locations**
 
 These are accessible via a portal in the Nether nexus, many via minecart tracks:
 
@@ -103,9 +109,9 @@ These are accessible via a portal in the Nether nexus, many via minecart tracks:
 * Mesa and Ice Biomes, a long way NE of spawn
 * Nova Bioma: Taiga and Jungle
 
-### Practically Useful Locations
+**### Practically Useful Locations**
 
-#### Farms
+**#### Farms**
 
 * XP / Gold Farm (high above nether roof, take the gold minecart from the central rail system)
 * Iron Farm (leave nexus by steps in NE corner past the Obsidian Mine, through the red arch, first portal)
@@ -118,7 +124,7 @@ These are accessible via a portal in the Nether nexus, many via minecart tracks:
 
 There is also an easy Wither-killing station in the nether. Take the netherbrick staircase in the east wall of the nexus and go straight on at the top, through the torchlit passage.
 
-#### Enchantments
+**#### Enchantments**
 * 'Bookshop', sells enchantments, only open during daytime. In Squaresville at end of overworld railway.
 * Marsh's Undercroft of The Secret Smiley (downstairs from his base): many Villager trades, including Mending (!!), Fortune II, Looting II, Frostwalker I, Infinity, Unbreaking II, Respiration II, Aqua Affinity
 * Villager: Silk Touch - 13 emeralds, in main level 0 corridor of Rainbow Castle between North West and Central Towers
@@ -126,7 +132,7 @@ There is also an easy Wither-killing station in the nether. Take the netherbrick
 
 When trading with villagers for enchantments, if you take the last one and the trade locks, please unlock it again (by making enough other trades with the villager).
 
-#### Maps
+**#### Maps**
 
 There are display maps in various places:
 
@@ -136,7 +142,7 @@ There are display maps in various places:
 * Somewhere Korvar made a massive overworld map of his epic railway
 * The End, in middle of central island, near exit portal and ladder to ice boat railway
 
-### Heraldry
+**### Heraldry**
 
 Several players have adopted a banner (or two) to signify their constructions, portals, and so on. There is a display of all of them to the left of the Public Smeltery.
 
