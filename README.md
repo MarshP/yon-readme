@@ -46,25 +46,39 @@ Players can be found near their main bases a lot of the time, as this is also wh
 
 #### Overworld transport
 
-* The **Overworld Railway** built by MrTrousers runs from the western edge of Spawntown to the heart of Squaresville, right by the [bookshop](#Landmarks). It's a fun ride with automated cart service and collection. Though largely safe, sections are unlit and unglassed, so use the train at night only if properly equipped. If you set off a creeper, remember to effect repairs!
-* The **Savannah Plateau Pedestrian Expressway (SPPE)** built by MAMP is useful if you want to travel north-south, but are east of the Yondinium-Squaresville line, making it irksome to get to the railway which is far to the west. The SPPE has a (colour-shifting) beacon to speed foot passage, and literal jumping-off points to get to Yondinium and the Gravel Path, by falling into water or elytra flight.<br><br>There is a concealed path just east of the SPPE, running parallel to it. This is useful to join the SPPE from ground level without travelllng to either end first.<br><br>Half way along the SPPE, next to the beacon, there is a nether portal.
-* The **Gravel Path** is _mainly_ made of gravel and runs east-west all the way from the Rainbow Castle, under the SPPE, through Squaresville near the bookshop, to the swamp near OG's house. This is an underrated method of transport right through our central realm, ripe for improvement and protection.
+The **Overworld Railway** built by MrTrousers runs from the western edge of Spawntown to the heart of Squaresville, right by the [bookshop](#Landmarks). It's a fun ride with automated cart service and collection. Though largely safe, sections are unlit and unglassed, so use the train at night only if properly equipped. If you set off a creeper, remember to effect repairs!
+
+The **Savannah Plateau Pedestrian Expressway (SPPE)** built by MAMP is useful if you want to travel north-south, but are east of the Yondinium-Squaresville line, making it irksome to get to the railway which is far to the west. The SPPE has a (colour-shifting) beacon to speed foot passage, and literal jumping-off points to get to Yondinium and the Gravel Path, by falling into water or elytra flight.
+
+> There is a concealed path just east of the SPPE, running parallel to it. This is useful to join the SPPE from ground level without travelllng to either end first.
+
+> Half way along the SPPE, next to the beacon, there is a nether portal.
+
+The **Gravel Path** is _mainly_ made of gravel and runs east-west all the way from the Rainbow Castle, under the SPPE, through Squaresville near the bookshop, to the swamp near OG's house. This is an underrated method of transport right through our central realm, ripe for improvement and protection.
+
+[**Ender pearls**](#Communal-and-Borrowable-Items) speed up overworld travel considerably. 
 
 #### Nether transport
 
 The nether hub is a large area carpeted with a map of the overworld. Portals are mainly within sight of each other and well signed.
 
-* An **automated railway station** is under construction by MrTrousers; signs indicate which lines are functioning so far.
-* **Paths out of the nether hub** at the NW and SW corners lead to:
-  * NW path to nether fortress with [blaze spawner](#Mob-and-Resource-Farms) and [wither skeleton farm](#Mob-and-Resource-Farms), also to the [iron farm](#Mob-and-Resource-Farms) built by Korvar.
-  * SW path to various out-of-the-way housing, and also the [BIG slime farm](#Mob-and-Resource-Farms) and [skeleton farm (B)](#Mob-and-Resource-Farms) built by MAMP (a train goes part way).
-* **Railways out of the nether hub:**
-  * NE corner - Railway to Mesa and Ice Biomes by JK. This way for coloured clay!
-  *
+An **automated railway station** is under construction by MrTrousers; signs indicate which lines are functioning so far.
 
-
+**Paths out of the nether hub** at the NW and SW, SE corners lead to:
+* NW path to nether fortress with [blaze spawner](#Mob-and-Resource-Farms) and [wither skeleton farm](#Mob-and-Resource-Farms), also to the [iron farm](#Mob-and-Resource-Farms) built by Korvar, and the [guardian farm](#Mob-and-Resource-Farms) for sea lanterns and prismarine.
+* SW path to various out-of-the-way housing, and also the [BIG slime farm](#Mob-and-Resource-Farms) and [skeleton farm (B)](#Mob-and-Resource-Farms) built by MAMP (a train goes part way).
+* SE to the Rainbow Castle and the [End Portal Stronghold](#Landmarks)
+* North end of the hub is a portal leading into the 0,0 desert, where the [squid ink farm](#Mob-and-Resource-Farms) is located.
+**Railways out of the nether hub**, not counting little internal railways over walking distances:
+* NE corner - Railway to Mesa and Ice Biomes by JK. This way for coloured clay!
+* E edge GIANT railway to the [Woodland Mansion]. This is entirely glassed and paved, and is probably the realm's biggest single build, made by Korvar.
+* Straight up - through the nether roof to the [XP and gold farm](#Mob-and-Resource-Farms)
+  * A foot stairway ascend from the east of the hub to meet this train at the nether roof. This is also the route to the [Wither-killing space](#Mob-and-Resource-Farms)
+* North and down - to the jungle biomes and [skeleton farm (A)](#Mob-and-Resource-Farms)
+* South and down - to Nova Bioma, with jungle and taiga biomes.
 
 #### End transport
+
 
 ### Mob and Resource Farms
 squid slime villagermrt central-general zpm Guardian spider-trou mob-base-mamp
