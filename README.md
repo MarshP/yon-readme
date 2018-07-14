@@ -30,23 +30,23 @@ Most players can be found near their main base a lot of the time, as this is als
 
 |Player|Approx. Coordinates|Description|Overworld Directions|Notes, Features|
 |:--:|:--:|:-------------|:----------|:---|
-|Cleanskies|235, 604|Cleanskies' first house; a ranch house with flowers on the roof.|Follow the [Gravel Path](#Transport) West out of Squaresville. The house is North of the path.|Beautiful glasshouses and a riot of flowers, set into ranch-like grounds with architectural sculptures.|
-|dp|250, 730 (underground)|dp's vaulted underground base. (Moria?)|Entrance under [Treehouse](#Landmarks) to SW of Squaresville|Amazing hand-dug vaults with pillars worth the visit, plus some quacking surprises.|
-|DgC|800, 510|The Rainbow Castle|Follow the [Gravel Path](#Transport) East from Squaresville, under the [SPPE](#Transport) and beyond.|Set up as a proper visitor attraction with amazing megabuilds, diving boards, canals and more... Spend the day.|
-|DnC| | | | |
+|Cleanskies|235, 604|Cleanskies' first house; a ranch house with flowers on the roof.|Follow the [Gravel Path](#Transport) west out of Squaresville. The house is north of the path.|Beautiful glasshouses and a riot of flowers, set into ranch-like grounds with architectural sculptures.|
+|dp|250, 730<br>(underground)|dp's vaulted underground base. (Moria?)|Entrance under [Treehouse](#Landmarks) to SW of Squaresville|Amazing hand-dug vaults with pillars worth the visit, plus some quacking surprises.|
+|DgC|800, 510|The Rainbow Castle|Follow the [Gravel Path](#Transport) east from Squaresville, under the [SPPE](#Transport) and beyond.|Set up as a proper visitor attraction with amazing megabuilds, diving boards, canals and more... Spend the day.|
+|DnC|255, 300|The acacia and cobble octagon.|Take either cobbled path east from Spawntown, or noth from Yondinium. The house is at the northernmost tip of Yondinium, just south of the river, a stone's throw from the 0,0 desert.|An oddly convoluted build, typical of DnC. The updtairs is one of the realm's only attempts at realistic furnishings. This house is less of a main base than others listed here, as DnC builds all over the realm as fancy takes him.|
 |JK|380, 160|JK's cliffside house.|Take the [Savannah Plateau Pedestrian Expressway (SPPE) or River](#Transport) to Marsh's then follow the river NE, or take the SPPE to the end and descend from JK's tower above the house.|A large but organic build in harmony with its environment. Best viewed from the desert to the NNW to see how the house shapes to the drop from the Savannah Plateau.|
-|JMcK|-200, 430|JMcK's waterfall house.| |wfall best of several |
-|Korvar| | | | |
-|LK| | | | |
-|MAMP|332, 189|Smiley Face|Take the offshoot near the N end of the SPPE, or follow paths and rivers E from Spawntown, NE from Yondinium|The themed roof is best seen from above on the SPPE or Yondinium buildings. The house itself is sorta iron-age fort. In contrast to nearby JK's house, the grounds are an example of extensive terraforming/bulldozing. Dragon sword|
-|MrTrousers| | | | |
-|OG|109 606 | | |swamp, lava glass animals in water, bridge to mountain house, hotel chain south|
+|JMcK|-200, 430|JMcK's waterfall house.| No clear overworld path. Best is to start at OG's house, then travel WNW through the birch forest. The tall red and white striped pylon will guide you to the mountain house, nearby. If you reach that, go back east a little.|The waterfall house is the most picturesque of several of JMcK's houses. There's shaped, routed waterfalls, a turf bridge between peaks, and several stairways into the mountains.|
+|Korvar|107, 247|Korvar's glass-toppped box.|The nearest house to spawn, in the middle of Spawntown.|Now somewhat overshadowed by Korvar's [monstrous pagoda](#Landmarks), this house has a cellar of surprises for smelting, brewing, a giant [slime farm](#Mob-and-Resource-Farms) and deep tunnels to MrTrousers' base.|
+|LK|todo|todo|todo|todo|
+|MAMP|332, 189|Smiley Face|Take the offshoot near the N end of the SPPE, or follow paths and rivers E from Spawntown, NE from Yondinium|The themed roof is best seen from above on the [SPPE](#Transport) or Yondinium buildings. The house itself is sorta iron-age fort. In contrast to nearby JK's house, the grounds are an example of extensive terraforming/bulldozing. The sword used to kill the first Ender Dragon is framed here.|
+|MrTrousers|50, 370<br>(built into the cliff)|Lair de Trousers|Hop off the [Overland Railway](#Transport) at the huge wheat farm, or follow deep tunnels from Korvar's Spawntown house. Follow directions on the sign to use the entrance elevator. Above ground, there is a hole for entry by elytra.|It's a palace of wonders, with some of Yon's most advanced RS contraptions and farms. Explore, trying to work out how various thing work: Why do the pumpkins float past? Where are the mobs rising from? _How much sugar cane?_ How are the villagers bred? There is also a [secret villager trading area](#Mob-and-Resource-Farms) and a [spider spawner](#Mob-and-Resource-Farms).|
+|OG|109,606|OG's swamp-edge house.|Follow the [Gravel Path](#Transport) to its western end.|The house is within easy step of the nearby swamp. OG keeps a set of animals - cows and colourful sheep - in water rather than fenes, for reasons unknown. The house straddles a large lava pond with a glass floor - beware gaps! An attractive bridge links OG's mountain house. To the south is a chain of hotels that can be used when travelling in that direction in the overworld.|
 
 ### Transport
 path behind SSPE
 grave path ollie 0> bookshop -> exressway (make a lift) -> rainbow
 ### Mob and Resource Farms
-squid slime villagermrt central-general zpm Guardian
+squid slime villagermrt central-general zpm Guardian spider-trou mob-base-mamp
 ### Enchantments and Other Villager Trades
 ### Communal and Borrowable Items
 mamp mamp-chest mamp-wood
@@ -108,7 +108,7 @@ These are accessible via a portal in the Nether nexus, many via minecart tracks:
 
 * Stronghold - Now the Enderdragon is dead you can return from The End safely. There is an ice railway (use a boat for high speed travel) all the way from the central island to an outer island, built by MrTrouser's flying machine. DO NOT BREAK THE ICE BLOCKS. This will cause the entire ice railway to collapse in to water.
 * Obsidian Mine
-* Jungle North of Spawn
+* Jungle north of Spawn
 * Mesa and Ice Biomes, a long way NE of spawn
 * Nova Bioma: Taiga and Jungle
 
@@ -130,7 +130,7 @@ There is also an easy Wither-killing station in the nether. Take the netherbrick
 **#### Enchantments**
 * 'Bookshop', sells enchantments, only open during daytime. In Squaresville at end of overworld railway.
 * Marsh's Undercroft of The Secret Smiley (downstairs from his base): many Villager trades, including Mending (!!), Fortune II, Looting II, Frostwalker I, Infinity, Unbreaking II, Respiration II, Aqua Affinity
-* Villager: Silk Touch - 13 emeralds, in main level 0 corridor of Rainbow Castle between North West and Central Towers
+* Villager: Silk Touch - 13 emeralds, in main level 0 corridor of Rainbow Castle between North West Tower and Central Tower
 * Villager: Looting III - 43 emeralds + book, on roof above the nether (jump of XP Farm cart just after going through nether roof)
 
 When trading with villagers for enchantments, if you take the last one and the trade locks, please unlock it again (by making enough other trades with the villager).
