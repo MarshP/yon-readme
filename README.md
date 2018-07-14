@@ -5,7 +5,7 @@
 * [Useful Locations](#Useful-Locations)
   * [Player Bases](#Player-Bases)
   * [Transport](#Transport)
-  * [Mob Farms](#Mob-Farms)
+  * [Mob and Resource Farms](#Mob-and-Resource-Farms)
   * [Enchantments and Other Villager Trades](#Enchantments-and-Other-Villager-Trades)
   * [Communal and Borrowable Items](#Communal-and-Borrowable-Items)
   * [Maps](#Maps)
@@ -16,7 +16,7 @@
 
 ## About Yon and This Readme
 
-Yon is a *Survival Mode* Minecraft Realm created and owned by D-Cug (of Oxford) and extensively built by him and friends over several years. You can see the terrain and biomes [on MineAtlas](http://mineatlas.com/?levelName=4966500929223253659&seed=4966500929223253659).
+Yon is a *Survival Mode* Minecraft Realm created and owned by DnC (of Oxford) and extensively built by him and friends over several years. You can see the terrain and biomes [on MineAtlas](http://mineatlas.com/?levelName=4966500929223253659&seed=4966500929223253659).
 
 The more thorough Yon Gist is [maintained by OG](https://gist.github.com/ollyg/78e7bf8d3df70f7bb0727493dcb9ceaf#file-yon-realm-asciidoc).  This readme is a reference of practically useful stuff for new or returning players.
 
@@ -30,27 +30,30 @@ Most players can be found near their main base a lot of the time, as this is als
 
 |Player|Approx. Coordinates|Description|Overworld Directions|Notes, Features|
 |:--:|:--:|:-------------|:----------|:---|
-|Cleanskies| | | | |
-|dp|250, 730 (underground)|dp's vaulted underground base|Entrance under [Treehouse](#Landmarks) to SW of Squaresville|Amazing hand-dug vaults with pillars worth the visit, plus some quacking surprises|
-|DgCl|TODO|Rainbow Castle|Follow the gravel path East from Yondinium, under the SPPE|Set up as a proper visitor attraction with amazing megabuilds, diving boards, canals... Spend the day.|
+|Cleanskies|235, 604|Cleanskies' first house; a ranch house with flowers on the roof.|Follow the [Gravel Path](#Transport) West out of Squaresville. The house is North of the path.|Beautiful glasshouses and a riot of flowers, set into ranch-like grounds with architectural sculptures.|
+|dp|250, 730 (underground)|dp's vaulted underground base. (Moria?)|Entrance under [Treehouse](#Landmarks) to SW of Squaresville|Amazing hand-dug vaults with pillars worth the visit, plus some quacking surprises.|
+|DgC|800, 510|The Rainbow Castle|Follow the [Gravel Path](#Transport) East from Squaresville, under the [SPPE](#Transport) and beyond.|Set up as a proper visitor attraction with amazing megabuilds, diving boards, canals and more... Spend the day.|
 |DnC| | | | |
-|JK|380, 160|JK's cliffside house|Take the [Savannah Plateau Pedestrian Expressway (SPPE) or River](#Transport) to Marsh's then follow the river NE, or take the SPPE to the end and descend from JK's tower|Example of a large but organic build in harmony with its environment.|
-|JMcK| | | | |
+|JK|380, 160|JK's cliffside house.|Take the [Savannah Plateau Pedestrian Expressway (SPPE) or River](#Transport) to Marsh's then follow the river NE, or take the SPPE to the end and descend from JK's tower above the house.|A large but organic build in harmony with its environment. Best viewed from the desert to the NNW to see how the house shapes to the drop from the Savannah Plateau.|
+|JMcK|-200, 430|JMcK's waterfall house.| |wfall best of several |
 |Korvar| | | | |
 |LK| | | | |
-|MAMP|TODO|Smiley Face|Take the offshoot near the N end of the SPPE, or follow paths and rivers E from Spawntown, NE from Yondinium|The themed roof is best seen from above on the SPPE or Yondinium buildings. The house itself is sorta iron-age fort. In contrast to nearby JK's house, the grounds are an example of extensive terraforming/bulldozing.|
+|MAMP|332, 189|Smiley Face|Take the offshoot near the N end of the SPPE, or follow paths and rivers E from Spawntown, NE from Yondinium|The themed roof is best seen from above on the SPPE or Yondinium buildings. The house itself is sorta iron-age fort. In contrast to nearby JK's house, the grounds are an example of extensive terraforming/bulldozing. Dragon sword|
 |MrTrousers| | | | |
-|OG| | | | | |
+|OG|109 606 | | |swamp, lava glass animals in water, bridge to mountain house, hotel chain south|
 
 ### Transport
-### Mob Farms
+path behind SSPE
+grave path ollie 0> bookshop -> exressway (make a lift) -> rainbow
+### Mob and Resource Farms
+squid slime villagermrt central-general zpm Guardian
 ### Enchantments and Other Villager Trades
 ### Communal and Borrowable Items
-mamp chest
+mamp mamp-chest mamp-wood
 ### Maps
 ### Landmarks
-treehou pagodas dino spaceship
-
+treehou pagodas dino spaceship nether hub carpets map
+dragon sword and head
 
 
 
