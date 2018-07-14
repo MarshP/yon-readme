@@ -76,7 +76,7 @@ There are several villages of different styles or themes. Feel free to help expa
 
 The above ground railway was built by `MrTrousers`. Although the original villages were close together, Oliver later built a network of https://minecraft.gamepedia.com/Nether_portal[Nether Portal]s and railways to make it easier to get around. Go into a Nether Gate and you will find signs and Gates to jump to other locations. The central nether nexus area is mostly glassed-in and covered with carpet to prevent mobs spawning, so is relatively safe. An automated switching minecart system, by MrTrousers, is partially complete. There is a Public Smeltery, built by MrTrousers, and next to that a set of chests which includes one with communal items (currently sponge and a beacon)- feel free to use these, but return them after you're done.
 
-There's also an elevated Savannah Plateau Pedestrian Expressway in the overworld, built by Marsh, which goes all the way from Juliet's Cliffside House, past Marsh's smiley base and Yondinium, to Squaresville. It is illuminated and has a colour-changing beacon roughly half-way along.
+There's also an elevated Savannah Plateau Pedestrian Expressway in the overworld, built by Marsh, which goes all the way from JK's Cliffside House, past Marsh's smiley base and Yondinium, to Squaresville. It is illuminated and has a colour-changing beacon roughly half-way along.
 
 ### Villages (approximately oldest to newest)
 
@@ -84,14 +84,14 @@ There's also an elevated Savannah Plateau Pedestrian Expressway in the overworld
 * Yondinium
 * Spwantown
 * Deadsville (near Rainbow Castle portals)
-* Roundwell (built by Damian, go round the back of the Deadsville portal)
+* Roundwell (built by DnC, go round the back of the Deadsville portal)
 
 ### People's Bases
 
-Most people's bases are most easily located via the Nether Portal network. (Doug's are labelled 'Rainbow Castle' and are not hard to miss from the carpet.) At the moment, the exceptions are:
+Most people's bases are most easily located via the Nether Portal network. (DgC's are labelled 'Rainbow Castle' and are not hard to miss from the carpet.) At the moment, the exceptions are:
 
-* Juliet: Cliffside House, about 380 ~ 160, nearest stop Marsh P's then follow cobble path or the river to the NE
-* doop: about 250 ~ 730, nearest stop Squaresville, entrance under treehouse to SW of Squaresville
+* JK: Cliffside House, about 380 ~ 160, nearest stop Marsh P's then follow cobble path or the river to the NE
+* dp: about 250 ~ 730, nearest stop Squaresville, entrance under treehouse to SW of Squaresville
 
 ### Other Notable Locations
 
@@ -112,7 +112,7 @@ These are accessible via a portal in the Nether nexus, many via minecart tracks:
 * Blaze Farm (keep going on path after Iron Farm)
 * Wither Skeleton Farm (keep going in to fortress after Blaze Farm)
 * Guardian Farm (keep going on path past the Blaze Farm fortress to the far portal)
-* Slime and Bone Farm (SW corner of nether nexus, go through tunnel next to Janet's Not-mushroom House, take the minecart railway, go round the Frozen Wastes/Ice Plains portal and down the twisty passageway)
+* Slime and Bone Farm (SW corner of nether nexus, go through tunnel next to JMcK's Not-mushroom House, take the minecart railway, go round the Frozen Wastes/Ice Plains portal and down the twisty passageway)
 * Skeleton Farm (made by Marsh, forgotten where it is other than jungle)
 * Overworld mob farm (in Spawntown, go up ladder surrounded by slime blocks)
 
@@ -132,7 +132,7 @@ There are display maps in various places:
 
 * Above the Public Smeltery in the nether
 * Marsh's Smiley base, on wall outside south door
-* Doug's Rainbow Castle, North West Tower level 1 (nearest main entrance)
+* DgC's Rainbow Castle, North West Tower level 1 (nearest main entrance)
 * Somewhere Korvar made a massive overworld map of his epic railway
 * The End, in middle of central island, near exit portal and ladder to ice boat railway
 
@@ -142,7 +142,7 @@ Several players have adopted a banner (or two) to signify their constructions, p
 
 * Brown with white central strip and black chief indented - MrTrousers
 * Black with red fess, black with purple fess - Marsh
-* Rainbow - Doug
+* Rainbow - DgC
 * Blue with yellow flower charge
 * Blue with white diagonal cross (Scottish saltire)
 * White with red roundel and black bordure
