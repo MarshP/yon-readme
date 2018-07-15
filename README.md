@@ -30,7 +30,7 @@ The more thorough Yon Gist is [maintained by OG](https://gist.github.com/ollyg/7
 ## Useful Locations
 
 ### Player Bases
-
+[test](https://github.com/MarshP/yon-readme/blob/master/player-bases/player-bases.md)
 Players can be found near their main bases a lot of the time, as this is also where their trades and food farms are likely to be. These are also good places to leave trade goods, notes (as signs or written books), borrow items, etc.
 
 |Player|Approx. Coordinates|Description|Overworld Directions|Notes, Features|
