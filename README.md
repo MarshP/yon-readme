@@ -17,15 +17,13 @@
 * [Landmarks](#landmarks)
 <!-- End ToC -->
 
-**FIRST DRAFT IN PROGRESS** - will remove this span when done. PLEASE FORK AND EDIT THEN PULL REQ.<br /> --mamp
-
 ----
 
 ## About Yon and This Readme
 
 Yon is a *Survival Mode* Minecraft Realm created and owned by DnC (of Oxford) and extensively built by him and friends over several years. You can see the terrain and biomes [on MineAtlas](http://mineatlas.com/?levelName=4966500929223253659&seed=4966500929223253659).
 
-The more thorough Yon Gist is [maintained by OG](https://gist.github.com/ollyg/78e7bf8d3df70f7bb0727493dcb9ceaf#file-yon-realm-asciidoc).  This readme is a reference of practically useful stuff for new or returning players.
+The more thorough Yon Gist is [maintained by OG](https://gist.github.com/ollyg/78e7bf8d3df70f7bb0727493dcb9ceaf#file-yon-realm-asciidoc). It has sections on history, heraldry and more. This readme is a reference of only **practically useful** stuff for new or returning players. There may be versions of this readme in other formats, such as asciidoc and pdf, in the same directory as this file.
 
 *Note:* This readme is public and so names are obfuscated - see the gist.
 
@@ -107,21 +105,39 @@ There are many farms - you may want to ctrl-F for what you need.
 
 `Useful Locations - Enchantments and Other Villager Trades`
 
+When trading with villagers for enchantments, if you take the last one and the trade locks, please unlock it again (by making enough other trades with the villager).
+
+* **Various enchantments** - **The [Bookshop](#landmarks)** sells enchantment books, only open during daytime. In Squaresville at end of the [overworld railway](#overworld-transport).
+*  **Various enchantments and villager trades including Mending** - **MAMP's Undercroft of The Secret Smiley** (downstairs from [his base](#player-bases)). Many Villager trades, including Mending, Fortune II, Looting II, Frostwalker I, Infinity, Unbreaking II, Respiration II, Aqua Affinity. Also priests, farmers for rotten flesh and crops to emeralds. And smiths for various enchanted diamond tools, weapons, armour.
+* **Silk Touch** - **[Rainbow Castle](#player-bases)** 13 emeralds, in main level 0 corridor between North West Tower and Central Tower.
+* **Looting III** - **Nether roof** 43 emeralds + book, on roof above the nether (jump off [XP Farm cart](#nether-transport) just after going through nether roof)
+*  **Many enchantments and villager trades** - **[Lair de Trousers](#player-bases)** many excellent books but entry is through a secret puzzle entrance. Fun to open.
+
 > [Back to contents](#contents)
 
 ### Communal and Borrowable Items
 
 `Useful Locations - Communal and Borrowable Items`
 
-mamp mamp-chest mamp-wood pearls fishing stations
+* The **public smeltery** is at the south end of the nether hub. Please refuel after heavy use.
+* **Ender pearls** can be farmed near the exit to The End, standing under the shelter there. Please drop a few in the nearby chest when you do this, and feel free to take some when short of time or without weapons.
+* See the section on [resource farms](#resource-farms) for other shared items like **timber**.
+* MAMP keeps a chest with diamonds for loan in [his base](#player-bases) - it is signed
+* MAMP and MrTrousers both have AFK fishing stations. MAMP's is not used by him so usually free.
 
 > [Back to contents](#contents)
-
-
 
 ### Maps
 
 `Useful Locations - Maps`
+
+There are display maps in various places:
+
+* Above the [Public Smeltery](#communal-and-borrowable-items) in the nether
+* [MAMP's Smiley Base](#player-bases), on wall outside south door
+* [DgC's Rainbow Castle](#player-bases), North West Tower level 1 (nearest main entrance)
+* Somewhere Korvar made a massive overworld map of his [Great Nether Railway](#nether-travel)
+* [The End](#end-travel), in middle of central island, near exit portal and ladder to ice boat railway
 
 > [Back to contents](#contents)
 
@@ -135,7 +151,7 @@ mamp mamp-chest mamp-wood pearls fishing stations
 
 The **Overworld Railway** built by MrTrousers runs from the western edge of Spawntown to the heart of Squaresville, right by the [bookshop](#landmarks). It's a fun ride with automated cart service and collection. Though largely safe, sections are unlit and unglassed, so use the train at night only if properly equipped. If you set off a creeper, remember to effect repairs!
 
-The **Savannah Plateau Pedestrian Expressway (SPPE)** built by MAMP is useful if you want to travel north-south, but are east of the Yondinium-Squaresville line, making it irksome to get to the railway which is far to the west. The SPPE has a (colour-shifting) beacon to speed foot passage, and literal jumping-off points to get to Yondinium and the Gravel Path, by falling into water or elytra flight.
+The **Savannah Plateau Pedestrian Expressway (SPPE)** built by MAMP is useful if you want to travel north-south, but are near the savannah, making it irksome to get to the railway which is far to the west. The SPPE has a (colour-shifting) beacon to speed foot passage, and literal jumping-off points to get to Yondinium and the Gravel Path, by falling into water or elytra flight.
 
 * There is a concealed path just east of the SPPE, running parallel to it. This is useful to join the SPPE from ground level without travelllng to either end first.
 
@@ -179,117 +195,28 @@ The End is a two way trip until we respawn an Ender Dragon. The end portal is in
 
 * Consider putting a pumpkin on your head, to avoid angering the many, many Endermen by mistake.
 * The obsidian platform you land on when coming to the End renews whenever a player comes through - it's a good place to mine obsidian.
-* Transport around the end is going to be by elytra + fireworks or [ender pearl](#communal-and-borrowable-items), however an ice roadway with wooden boats has been built to speed part of the journey away from the first island in one direction - **remember to place no torches or lights here** please.
+* Transport around the end is going to be by elytra + fireworks or [ender pearl](#communal-and-borrowable-items), however an ice roadway with wooden boats has been built to speed part of the journey away from the first island in one direction - **remember to place no torches or lights here** please, and **do not break any ice blocks or the whole roadway will collapse**.
 
 > [Back to contents](#contents)
 
 ----
 
 ## Landmarks
-treehou pagodas dino spaceship nether hub carpets map
-dragon sword and head
-ocean mnmt
-red wht pylon
+
+There are **several villages** of different styles or themes. Feel free to help expand them, in keeping with taste and maintaining perimiter security.
+
+See interesting houses including the **pretty pagoda** and **treehouse** (a house made of trees) south of Squaresville. Also **Korvar's gigantic pagoda** east of Spawntown cannot be missed (whether or not you want to).
+
+At the [Rainbow Castle](#player-bases) see incredible mega builds of **dinosaur**, **spaceship** and **hexa-helix**. Also a **scale model of the Rainbow Castle**.
+
+The nether hub carpets form a **1:8 carpet tile map of the matching overworld** with suitable flora for flavour.
+
+After the first End Dragon was slain, the **sword that killed the End Dragon** and the **End Dragon's head** were wall-mounted in MAMP's and MrTrousers' bases, respectively.
+
+The **ocean monument** that houses the [guardian farm](#mob-farms) can be visited from the surface. The portal needed is near to the farm portal. Wear good armour!
+
+A mysterious **red and white striped pylon** is high above JMcK's mountain base. Excellent for telling eleytra flyers they're nearly home.
+
+The **Great Nether Railway** is the largest build on the realm and takes 8 mins+ in the nether (an hour's overworld minecart journey). As well as being huge it's attractive in its own right, and goes to our first **Woodland Mansion** at 18350, -14757 overworld.
 
 > [Back to contents](#contents)
-
-----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-----
-
-
-## Old Material being reworked ##
-
-**Landmarks**
-
-
-There are several villages of different styles or themes. Feel free to help expand them, in keeping with taste and maintaining perimiter security. Most players have also built a house somewhere in the world, for fun and to keep their stuff. Feel free to do the same.
-
-The above ground railway was built by `MrTrousers`. Although the original villages were close together, Oliver later built a network of https://minecraft.gamepedia.com/Nether_portal[Nether Portal]s and railways to make it easier to get around. Go into a Nether Gate and you will find signs and Gates to jump to other locations. The central nether nexus area is mostly glassed-in and covered with carpet to prevent mobs spawning, so is relatively safe. An automated switching minecart system, by MrTrousers, is partially complete. There is a Public Smeltery, built by MrTrousers, and next to that a set of chests which includes one with communal items (currently sponge and a beacon)- feel free to use these, but return them after you're done.
-
-There's also an elevated Savannah Plateau Pedestrian Expressway in the overworld, built by MAMP, which goes all the way from JK's Cliffside House, past MAMP's smiley base and Yondinium, to Squaresville. It is illuminated and has a colour-changing beacon roughly half-way along.
-
-**Villages (approximately oldest to newest)**
-
-* Squaresville
-* Yondinium
-* Spwantown
-* Deadsville (near Rainbow Castle portals)
-* Roundwell (built by DnC, go round the back of the Deadsville portal)
-
-**People's Bases**
-
-Most people's bases are most easily located via the Nether Portal network. (DgC's are labelled 'Rainbow Castle' and are not hard to miss from the carpet.) At the moment, the exceptions are:
-
-* JK: Cliffside House, about 380 ~ 160, nearest stop MAMP P's then follow cobble path or the river to the NE
-* dp: about 250 ~ 730, nearest stop Squaresville, entrance under treehouse to SW of Squaresville
-
-**### Other Notable Locations**
-
-These are accessible via a portal in the Nether nexus, many via minecart tracks:
-
-* Stronghold - Now the Enderdragon is dead you can return from The End safely. There is an ice railway (use a boat for high speed travel) all the way from the central island to an outer island, built by MrTrouser's flying machine. DO NOT BREAK THE ICE BLOCKS. This will cause the entire ice railway to collapse in to water.
-* Obsidian Mine
-* Jungle north of Spawn
-* Mesa and Ice Biomes, a long way NE of spawn
-* Nova Bioma: Taiga and Jungle
-
-**### Practically Useful Locations**
-
-**#### Farms**
-
-* XP / Gold Farm (high above nether roof, take the gold minecart from the central rail system)
-* Iron Farm (leave nexus by steps in NE corner past the Obsidian Mine, through the red arch, first portal)
-* Blaze Farm (keep going on path after Iron Farm)
-* Wither Skeleton Farm (keep going in to fortress after Blaze Farm)
-* Guardian Farm (keep going on path past the Blaze Farm fortress to the far portal)
-* Slime and Bone Farm (SW corner of nether nexus, go through tunnel next to JMcK's Not-mushroom House, take the minecart railway, go round the Frozen Wastes/Ice Plains portal and down the twisty passageway)
-* Skeleton Farm (made by MAMP, forgotten where it is other than jungle)
-* Overworld mob farm (in Spawntown, go up ladder surrounded by slime blocks)
-
-There is also an easy Wither-killing station in the nether. Take the netherbrick staircase in the east wall of the nexus and go straight on at the top, through the torchlit passage.
-
-**#### Enchantments**
-* 'Bookshop', sells enchantments, only open during daytime. In Squaresville at end of overworld railway.
-* MAMP's Undercroft of The Secret Smiley (downstairs from his base): many Villager trades, including Mending (!!), Fortune II, Looting II, Frostwalker I, Infinity, Unbreaking II, Respiration II, Aqua Affinity
-* Villager: Silk Touch - 13 emeralds, in main level 0 corridor of Rainbow Castle between North West Tower and Central Tower
-* Villager: Looting III - 43 emeralds + book, on roof above the nether (jump of XP Farm cart just after going through nether roof)
-
-When trading with villagers for enchantments, if you take the last one and the trade locks, please unlock it again (by making enough other trades with the villager).
-
-**#### Maps**
-
-There are display maps in various places:
-
-* Above the Public Smeltery in the nether
-* MAMP's Smiley base, on wall outside south door
-* DgC's Rainbow Castle, North West Tower level 1 (nearest main entrance)
-* Somewhere Korvar made a massive overworld map of his epic railway
-* The End, in middle of central island, near exit portal and ladder to ice boat railway
-
-**### Heraldry**
-
-Several players have adopted a banner (or two) to signify their constructions, portals, and so on. There is a display of all of them to the left of the Public Smeltery.
-
-* Brown with white central strip and black chief indented - MrTrousers
-* Black with red fess, black with purple fess - MAMP
-* Rainbow - DgC
-* Blue with yellow flower charge
-* Blue with white diagonal cross (Scottish saltire)
-* White with red roundel and black bordure
