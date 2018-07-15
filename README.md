@@ -22,7 +22,7 @@
 ----
 ----
 
-## About Yon and This Readme
+## 1. About Yon and This Readme
 
 Yon is a *Survival Mode* Minecraft Realm created and owned by DnC (of Oxford) and extensively built by him and friends over several years. You can see the terrain and biomes [on MineAtlas](http://mineatlas.com/?levelName=4966500929223253659&seed=4966500929223253659).
 
