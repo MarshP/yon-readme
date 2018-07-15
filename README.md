@@ -4,6 +4,7 @@
 * [About Yon and This Readme](#about-yon-and-this-readme)
 * [Useful Locations](#useful-locations)
   * [Player Bases](#player-bases)
+  * [test](./player-bases.md)
   * [Mob and Resource Farms](#mob-and-resource-farms)
     * [Mob farms](#mob-farms)
     * [Other resource farms](other-resource-farms)
