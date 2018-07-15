@@ -4,7 +4,6 @@
 * [About Yon and This Readme](#about-yon-and-this-readme)
 * [Useful Locations](#useful-locations)
   * [Player Bases](#player-bases)
-  * [test](./player-bases.md)
   * [Mob and Resource Farms](#mob-and-resource-farms)
     * [Mob farms](#mob-farms)
     * [Other resource farms](other-resource-farms)
@@ -18,7 +17,10 @@
 * [Landmarks](#landmarks)
 <!-- End ToC -->
 
-<span style="color:yellow;">FIRST DRAFT IN PROGRESS - will remove this span when done. PLEASE FORK AND EDIT THEN PULL REQ.<br /> --mamp</span>
+**FIRST DRAFT IN PROGRESS** - will remove this span when done. PLEASE FORK AND EDIT THEN PULL REQ.<br /> --mamp
+
+----
+----
 
 ## About Yon and This Readme
 
@@ -26,7 +28,12 @@ Yon is a *Survival Mode* Minecraft Realm created and owned by DnC (of Oxford) an
 
 The more thorough Yon Gist is [maintained by OG](https://gist.github.com/ollyg/78e7bf8d3df70f7bb0727493dcb9ceaf#file-yon-realm-asciidoc).  This readme is a reference of practically useful stuff for new or returning players.
 
-**Note:** This readme is public and names are obfuscated - see the gist.
+*Note:* This readme is public and so names are obfuscated - see the gist.
+
+> [Back to top of page](#contents)
+
+----
+----
 
 ## Useful Locations
 
@@ -48,6 +55,9 @@ Players can be found near their main bases a lot of the time, as this is also wh
 |MrTrousers|50, 370<br>(built into the cliff)|Lair de Trousers|Hop off the [Overland Railway](#transport) at the huge wheat farm, or follow deep tunnels from Korvar's Spawntown house. Follow directions on the sign to use the entrance elevator. Above ground, there is a hole for entry by elytra.|It's a palace of wonders, with some of Yon's most advanced RS contraptions and farms. Explore, trying to work out how various thing work: Why do the pumpkins float past? Where are the mobs rising from? _How much sugar cane?_ How are the villagers bred? There is also a [secret villager trading area](#mob-and-resource-farms) and a [spider spawner](#mob-and-resource-farms).|
 |OG|109,606|OG's swamp-edge house.|Follow the [Gravel Path](#transport) to its western end.|The house is within easy step of the nearby swamp. OG keeps a set of animals - cows and colourful sheep - in water rather than fenes, for reasons unknown. The house straddles a large lava pond with a glass floor - beware gaps! An attractive bridge links OG's mountain house. To the south is a chain of hotels that can be used when travelling in that direction in the overworld.|
 
+> [Back to top of page](#contents)
+
+----
 
 ### Mob and Resource Farms
 
@@ -74,6 +84,10 @@ There are many farms - you may want to ctrl-F for what you need.
 |Zombie<br>- rotten flesh<br>- various junk|MAMP's zombie arena|Take NW path out of nether hub. Instead of turning left into iron farm portal, continue north. The portal to the farm is just ahead and exits at -192, 66, -427.|Fun to use as it's switchable and daylight is guillotine. Rotten flesh can be [traded for emeralds](#enchantments-and-Other-villager-trades). See also multi-mob farms for zombies.|
 |Zombie pigman<br>- XP<br>- gold<br>- enchanted swords|The gold and XP farm|Take the signed rail line upwards out of the nether hub. You may want to ask someone to show you the farm the first time you use it.|Gives XP and gold at ridiculous rates. Can falter if another player is in the nether splitting the mob cap. Swords are gained by fishing in the hoppers and collection chests before they're processed. **Do not attempt to take goods from the minecarts!**
 
+> [Back to top of page](#contents)
+
+----
+
 #### Resource farms
 
 **Crops** are farmed in most [players' bases](#player-bases) but are usually needed, so this is a case where you should ask before use.
@@ -82,11 +96,29 @@ There are many farms - you may want to ctrl-F for what you need.
 
 **Wood** for sharing can be found in a chest in the tree farm by the west wall of [MAMP's base](#player-bases). Also growing in the larger [slime farm](#mob-farms).
 
+> [Back to top of page](#contents)
+
+----
 
 ### Enchantments and Other Villager Trades
+
+> [Back to top of page](#contents)
+
+----
+
 ### Communal and Borrowable Items
 mamp mamp-chest mamp-wood pearls fishing stations
+
+> [Back to top of page](#contents)
+
+----
+
 ### Maps
+
+> [Back to top of page](#contents)
+
+----
+----
 
 ## Transport
 
@@ -131,14 +163,20 @@ The End is a two way trip until we respawn an Ender Dragon. The end portal is in
 * Consider putting a pumpkin on your head, to avoid angering the many, many Endermen by mistake.
 * The obsidian platform you land on when coming to the End renews whenever a player comes through - it's a good place to mine obsidian.
 * Transport around the end is going to be by elytra + fireworks or [ender pearl](#communal-and-borrowable-items), however an ice roadway with wooden boats has been built to speed part of the journey away from the first island in one direction - **remember to place no torches or lights here** please.
+*
+> [Back to top of page](#contents)
 
+----
 
-
-### Landmarks
+## Landmarks
 treehou pagodas dino spaceship nether hub carpets map
 dragon sword and head
 ocean mnmt
 red wht pylon
+
+> [Back to top of page](#contents)
+
+----
 
 
 
