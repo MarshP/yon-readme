@@ -57,6 +57,7 @@ There are many farms - you may want to ctrl-F for what you need.
 #### Mob farms
 |Mob/Resources|Farms|Location and Travel|Notes|
 |----|----|----|----|
+|Blaze<br>- blaze rods|Blaze spawner|Take NW path out of nether hub and into nether fortress. Follow signs to the spawner. The killing and collection point is below the spawner on the ground floor, near the enchanting table and bookcases.|--|
 |Guardian<br>- prismarine shards, crystals<br>- (sea lanterns)<br>- fish (cod)<br>- ink|Guardian farm and ocean monument|Take NW path out of nether hub. Follow the path west past nether fort. **Beware ghasts here**, which can also hit and anger ZPMs. The signed and prismarine shrouded portal exits at -815, 40, -280 in the empty [ocean monument](#landmarks).|Ink is a side-effect, see squid farms below.
 |Iron golem<br>- iron<br>- poppies|Korvar's iron farm|Take NW path out of nether hub. The portal is near the hub, before you reach the nether fortress, and signed. It exits near the farm which is at -264, 70, -234|--|
 |Multi-mob farm<br>- bones<br>- arrows<br>- rotten flesh<br>- string<br>- gunpowder<br>- etc.|Korvar's Spawntown tower mob farm|From Spawntown, just climb the nearby giant tower.|This is the most productive multi-mob farm. Also, you can jump off the top onto the slime block below. Top fun.<br><br>Note these farms are the only type to produce creepers and gunpowder.|
@@ -66,23 +67,20 @@ There are many farms - you may want to ctrl-F for what you need.
 |Slime<br>- slimeballs|Korvar's slime farm|Go down under Korvar's Spawntown house.|Built before slime chunks were confirmed - less productive|
 |Slime<br>- slimeballs|MAMP's slime farm|See skeleton farm (B), above|Huge meeting of 5 slime chunks and multi-floored, but not all dug out. Already productive but likely even more so in future.|
 |Spider<br>- string<br>- spider eyes|MrTrousers' WIP|Take the lift down to MrTrousers' mines under [his base](#player-bases). Next to the lift is a signed corridor to the spawner.|Also see multi-mob spawners for spiders.|
-|Squid<br>- ink|Korvar's squid farm<br>------<br>Guardian farm|In the desert close to 0,0. A portal from the nether hub exits nearby, then follow the tunnel immediately east of the portal and down a shaft.<br>------<br>See above for guardian farm directions.|None<br>------<br>Squid spawning and being killed by guardians is a useful side effect, but productive for ink.|
-|Squid<br>- ink|Korvar's squid farm<br>------<br>Guardian farm|In the desert close to 0,0. A portal from the nether hub exits nearby, then follow the tunnel immediately east of the portal and down a shaft.<br>------<br>See above for guardian farm directions.|None<br>------<br>Squid spawning and being killed by guardians is a useful side effect, but productive for ink.|
-|Wither skeleton
-|Zombie|see also multi
-|Zombie pigman<br>- XP<br>- gold|swds emds
-
-
-
-
-
-
+|Squid<br>- ink|Korvar's squid farm|In the desert close to 0,0. A portal from the nether hub exits nearby, then follow the tunnel immediately east of the portal and down a shaft.|--|
+|Squid|Guardian farm|See above for guardian farm directions.|Squid spawning and being killed by guardians is a useful side effect, but productive for ink.|
+|Wither skeleton<br>- wither skeleton skulls|DgC's wither skeleton farm|Take NW path out of nether hub, follow it into the nether fortress. Follow signs then red carpet to the farm.|Follow instructions on signs carefully! When you have 3 skulls, ask DgC to show you the easy Wither-killing area.|
+|Zombie<br>- rotten flesh<br>- various junk|MAMP's zombie arena|Take NW path out of nether hub. Instead of turning left into iron farm portal, continue north. The portal to the farm is just ahead and exits at -192, 66, -427.|Fun to use as it's switchable and daylight is guillotine. Rotten flesh can be [traded for emeralds](#enchantments-and-Other-villager-trades). See also multi-mob farms for zombies.|
+|Zombie pigman<br>- XP<br>- gold<br>- enchanted swords|The gold and XP farm|Take the signed rail line upwards out of the nether hub. You may want to ask someone to show you the farm the first time you use it.|Gives XP and gold at ridiculous rates. Can falter if another player is in the nether splitting the mob cap. Swords are gained by fishing in the hoppers and collection chests before they're processed. **Do not attempt to take goods from the minecarts!**
 
 #### Resource farms
-squid slime villagermrt central-general zpm Guardian spider-trou mob-base-mamp obsid
-|Obsidian
-|Wood
-crops usually no
+
+**Crops** are farmed in most [players' bases](#player-bases) but are usually needed, so this is a case where you should ask before use.
+
+**Obsidian** can be renewably farmed by entering [The End](#end-transport), digging up the platform on which you land, exiting The End and repeating. The massive obsidian pillars near the dragon egg will also renew when we respawn a dragon, but not before then.
+
+**Wood** for sharing can be found in a chest in the tree farm by the west wall of [MAMP's base](#player-bases). Also growing in the larger [slime farm](#mob-farms).
+
 
 ### Enchantments and Other Villager Trades
 ### Communal and Borrowable Items
@@ -97,9 +95,9 @@ The **Overworld Railway** built by MrTrousers runs from the western edge of Spaw
 
 The **Savannah Plateau Pedestrian Expressway (SPPE)** built by MAMP is useful if you want to travel north-south, but are east of the Yondinium-Squaresville line, making it irksome to get to the railway which is far to the west. The SPPE has a (colour-shifting) beacon to speed foot passage, and literal jumping-off points to get to Yondinium and the Gravel Path, by falling into water or elytra flight.
 
-> There is a concealed path just east of the SPPE, running parallel to it. This is useful to join the SPPE from ground level without travelllng to either end first.
+* There is a concealed path just east of the SPPE, running parallel to it. This is useful to join the SPPE from ground level without travelllng to either end first.
 
-> Half way along the SPPE, next to the beacon, there is a nether portal.
+* Half way along the SPPE, next to the beacon, there is a nether portal.
 
 The **Gravel Path** is _mainly_ made of gravel and runs east-west all the way from the Rainbow Castle, under the SPPE, through Squaresville near the bookshop, to the swamp near OG's house. This is an underrated method of transport right through our central realm, ripe for improvement and protection.
 
