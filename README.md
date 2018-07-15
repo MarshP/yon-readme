@@ -65,6 +65,8 @@ Mob and resource farms are built mainly for general use. If guests are ***not***
 
 There are many farms - you may want to ctrl-F for what you need.
 
+> [Back to contents](#contents)
+
 #### Mob farms
 
 `Useful Locations - Mob and Resource Farms - Mob farms`
@@ -143,6 +145,8 @@ The **Gravel Path** is _mainly_ made of gravel and runs east-west all the way fr
 
 [**Ender pearls**](#communal-and-borrowable-items) speed up overworld travel considerably.
 
+> [Back to contents](#contents)
+
 ### Nether Transport
 
 `Transport - Nether Transport`
@@ -165,6 +169,8 @@ An **automated railway station** is under construction by MrTrousers; signs indi
 * North and down - to the jungle biomes and [skeleton farm (A)](#mob-and-resource-farms)
 * South and down - to Nova Bioma, with jungle and taiga biomes.
 
+> [Back to contents](#contents)
+
 ### End Transport
 
 `Transport - End Transport`
@@ -174,7 +180,7 @@ The End is a two way trip until we respawn an Ender Dragon. The end portal is in
 * Consider putting a pumpkin on your head, to avoid angering the many, many Endermen by mistake.
 * The obsidian platform you land on when coming to the End renews whenever a player comes through - it's a good place to mine obsidian.
 * Transport around the end is going to be by elytra + fireworks or [ender pearl](#communal-and-borrowable-items), however an ice roadway with wooden boats has been built to speed part of the journey away from the first island in one direction - **remember to place no torches or lights here** please.
-*
+
 > [Back to contents](#contents)
 
 ----
